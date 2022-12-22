@@ -10,7 +10,6 @@
   <option value="Frame"><Frame</option>
   <option value="JM">JM</option>
   <option value="MNC">MNC</option>
-  <option value="NC">NC</option>
 </select>
 <label for="state">State:</label>
 <select name="state" id="state">
